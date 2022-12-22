@@ -9,6 +9,7 @@ public class Test1 extends Base{
   public void lounch() throws InterruptedException, IOException
   {
 	  launchBrowser();
+	System.out.println("Success...");
   }
   public void f() {
   }
